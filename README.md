@@ -1,5 +1,5 @@
 # pyStudy
-Study공개용
+부산대 python스터디 코드 공유 git
 
 우측 위에 CODE 초록색 누르고 zip으로 다운받고 열면 끝!
 py파일 그대로 올릴거라
