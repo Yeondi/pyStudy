@@ -9,3 +9,4 @@ vsCode에 드래그앤 드랍을 하던가
 
 열어서 코드 확인!
 #<span style="color:red"><b>10818 2562 제외하고 나머지는 주석을 달아서 좀 더 이해가 되도록 해놨음!</span>
+<span style="color:red">붉은 색</span>
