@@ -14,3 +14,8 @@ vsCode에 드래그앤 드랍을 하던가
 ## <b>10818 2562 제외하고 나머지는 주석을 달아서 좀 더 이해가 되도록 해놨음!
 
   
+& C:\pythonStudy C:\pythonStudy\sjh.py
+^
+ SyntaxError: invalid syntax
+  
+이런거 나오면 우측 하단 python쪽에 마우스 올려서 휴지통 눌러서 터미널 삭제하고 다시 실행!
